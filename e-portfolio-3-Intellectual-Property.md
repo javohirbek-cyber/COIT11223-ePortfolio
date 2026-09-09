@@ -65,3 +65,17 @@ I chose this article because copyright ownership of AI-generated content is beco
 During the Week 7 workshop, I developed a better understanding of intellectual property and why it is important in the ICT industry. Before this workshop, I mainly associated intellectual property with copyright. However, I learned that intellectual property includes different forms of protection such as copyright, patents, trademarks, designs and trade secrets. One idea that interested me was the need to balance the rights of creators with the benefits that new ideas and technologies can provide to society.
 
 The workshop also made me think more carefully about intellectual property in my future career. As an IT student, I may develop software, use AI-generated content or work with information created by other people. I now understand that ICT professionals need to consider ownership, copyright and the responsible use of digital content. This workshop helped me see that intellectual property is not only a legal issue but also an ethical responsibility when developing and using technology.
+
+
+
+
+
+## References
+
+IP Australia 2025, *Australian IP Report 2025*, Australian Government, viewed 9 September 2026, https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/australian-ip-report-2025
+
+Riga, J 2025, ‘Disney and Universal sue AI firm Midjourney for copyright infringement’, *ABC News*, 12 June, viewed 9 September 2026, https://www.abc.net.au/news/2025-06-12/disney-and-universal-sue-ai-firm-midjourney-for-copyright/105407174
+
+Chen, G, Tong, Y & Han, Z 2026, ‘Comparative Study on the Ownership of Copyright of Artificial Intelligence-Generated Works’, *Laws*, vol. 15, no. 4, article 66, viewed 9 September 2026, https://doi.org/10.3390/laws15040066
+
+CQUniversity 2026, *COIT11223 ICT Ethics and Governance in Society: Week 7 – Intellectual Property*, workshop materials, CQUniversity.
