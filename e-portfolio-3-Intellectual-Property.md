@@ -17,3 +17,18 @@ This artefact from the Australian IP Report 2025 explains how intellectual prope
 ### Justification on why I chose the artefact
 
 I chose this artefact because it helped me understand that intellectual property is not only about stopping other people from copying an idea. Before the Week 7 workshop, I mainly thought of patents as legal protection for inventions. I now understand that IP can also be an important business strategy. This is relevant to me as an IT student because software and technology projects can involve valuable ideas and innovations. As a future ICT professional, I may need to understand how intellectual property can be protected and managed while developing new technology.
+
+
+## Artefact 2: AI and Copyright – Midjourney Lawsuit
+
+![Artefact 2 - Midjourney Copyright Case](photo_2026-09-09_23-34-13.jpg)
+
+**Source (news article):** ABC News 2025, *Disney and Universal sue AI firm Midjourney for copyright infringement*.
+
+### Summary of the artefact
+
+This ABC News article reports on a copyright lawsuit brought by Disney and Universal against the AI company Midjourney. The studios alleged that Midjourney infringed their copyrighted works through its AI image-generation service. The case demonstrates one of the major challenges created by generative AI because these systems can produce images that resemble existing characters and other protected creative works. It raises questions about how copyright law should apply when AI systems use or reproduce existing creative content.
+
+### Justification on why I chose the artefact
+
+I chose this article because it gives a current real-world example of the copyright issues we discussed during Week 7. What interested me most was the conflict between technological innovation and the rights of original creators. AI companies want to develop more powerful systems, while artists and companies also need protection for the content they create. As an IT student, this made me realise that developing technology is not only about what a system is technically capable of doing. Developers also need to think about whether digital content is being used legally and ethically.
