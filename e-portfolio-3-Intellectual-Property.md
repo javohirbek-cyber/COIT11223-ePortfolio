@@ -36,3 +36,16 @@ I chose this article because it gives a current real-world example of the copyri
 
 
 
+## Artefact 3: Scholarly Article – Copyright Ownership of AI-Generated Works
+
+![Artefact 3 - AI Copyright](YOUR-IMAGE-NAME.jpg)
+
+**Source (scholarly article):** Chen, G, Tong, Y & Han, Z 2026, *Comparative Study on the Ownership of Copyright of Artificial Intelligence-Generated Works*, Laws, vol. 15, no. 4, article 66.
+
+### Summary of the artefact
+
+This scholarly article examines the question of who should own the copyright of works created using artificial intelligence. It compares approaches in different legal systems and discusses whether copyright should belong to the AI user, developer or another party. The article also distinguishes between AI-assisted works, where humans make a significant creative contribution, and content generated more independently by AI. This demonstrates how generative AI is creating new challenges for traditional copyright law.
+
+### Justification on why I chose the artefact
+
+I chose this article because copyright ownership of AI-generated content is becoming an important issue in the technology industry. Before studying intellectual property, I assumed that the person using an AI tool would automatically own the content it produced. This artefact showed me that the situation can be much more complicated and depends on the level of human involvement. As an IT student, I found this particularly relevant because future software systems will increasingly include generative AI. It helped me understand why ICT professionals should consider copyright ownership when developing and using AI systems.
