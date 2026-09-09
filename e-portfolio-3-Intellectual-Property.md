@@ -36,3 +36,16 @@ I chose this article because it gives a current real-world example of the copyri
 
 
 
+## Artefact 3: Scholarly Article – Legal Regulation of AI-Assisted Academic Writing
+
+![Artefact 3 - Scholarly Article](YOUR-IMAGE-NAME.jpg)
+
+**Source (scholarly article):** Gao et al. 2025, *Legal regulation of AI-assisted academic writing: challenges, frameworks, and pathways*, *Frontiers in Artificial Intelligence*, vol. 8, article 1546064.
+
+### Summary of the artefact
+
+This scholarly article examines legal and ethical challenges created by the use of AI in academic writing. It discusses important issues such as copyright protection, academic integrity, data security and the ownership of AI-generated content. The article shows that generative AI makes traditional ideas about authorship more complicated because content can be created through interaction between a human and an AI system. It also considers how legal frameworks may need to develop as AI becomes more widely used.
+
+### Justification on why I chose the artefact
+
+I chose this article because it connects intellectual property with AI technology that I regularly see and use as a university student. Before researching this topic, I had not seriously considered who owns content that is produced with the assistance of AI. This article helped me understand that AI creates new questions about authorship, copyright and responsibility. As an IT student, I think this is important because generative AI is becoming part of many digital systems. ICT professionals need to understand intellectual property issues when developing or using AI, rather than focusing only on what the technology can do.
