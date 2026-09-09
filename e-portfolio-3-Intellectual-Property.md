@@ -36,16 +36,16 @@ I chose this article because it gives a current real-world example of the copyri
 
 
 
-## Artefact 3: Scholarly Article – Legal Regulation of AI-Assisted Academic Writing
+## Artefact 3: Scholarly Article – Copyright Ownership of AI-Generated Works
 
-![Artefact 3 - Scholarly Article](YOUR-IMAGE-NAME.jpg)
+![Artefact 3 - AI Copyright](YOUR-IMAGE-NAME.jpg)
 
-**Source (scholarly article):** Gao et al. 2025, *Legal regulation of AI-assisted academic writing: challenges, frameworks, and pathways*, *Frontiers in Artificial Intelligence*, vol. 8, article 1546064.
+**Source (scholarly article):** Chen, G, Tong, Y & Han, Z 2026, *Comparative Study on the Ownership of Copyright of Artificial Intelligence-Generated Works*, Laws, vol. 15, no. 4, article 66.
 
 ### Summary of the artefact
 
-This scholarly article examines legal and ethical challenges created by the use of AI in academic writing. It discusses important issues such as copyright protection, academic integrity, data security and the ownership of AI-generated content. The article shows that generative AI makes traditional ideas about authorship more complicated because content can be created through interaction between a human and an AI system. It also considers how legal frameworks may need to develop as AI becomes more widely used.
+This scholarly article examines the question of who should own the copyright of works created using artificial intelligence. It compares approaches in different legal systems and discusses whether copyright should belong to the AI user, developer or another party. The article also distinguishes between AI-assisted works, where humans make a significant creative contribution, and content generated more independently by AI. This demonstrates how generative AI is creating new challenges for traditional copyright law.
 
 ### Justification on why I chose the artefact
 
-I chose this article because it connects intellectual property with AI technology that I regularly see and use as a university student. Before researching this topic, I had not seriously considered who owns content that is produced with the assistance of AI. This article helped me understand that AI creates new questions about authorship, copyright and responsibility. As an IT student, I think this is important because generative AI is becoming part of many digital systems. ICT professionals need to understand intellectual property issues when developing or using AI, rather than focusing only on what the technology can do.
+I chose this article because copyright ownership of AI-generated content is becoming an important issue in the technology industry. Before studying intellectual property, I assumed that the person using an AI tool would automatically own the content it produced. This artefact showed me that the situation can be much more complicated and depends on the level of human involvement. As an IT student, I found this particularly relevant because future software systems will increasingly include generative AI. It helped me understand why ICT professionals should consider copyright ownership when developing and using AI systems.
