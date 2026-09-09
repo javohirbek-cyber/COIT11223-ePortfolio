@@ -49,3 +49,19 @@ This scholarly article examines the question of who should own the copyright of 
 ### Justification on why I chose the artefact
 
 I chose this article because copyright ownership of AI-generated content is becoming an important issue in the technology industry. Before studying intellectual property, I assumed that the person using an AI tool would automatically own the content it produced. This artefact showed me that the situation can be much more complicated and depends on the level of human involvement. As an IT student, I found this particularly relevant because future software systems will increasingly include generative AI. It helped me understand why ICT professionals should consider copyright ownership when developing and using AI systems.
+
+
+
+## Artefact 4: Workshop Personal Reflection
+
+**Workshop:** Week 7 – Intellectual Property  
+**Unit:** COIT11223 ICT Ethics and Governance in Society  
+**Location:** CQUniversity Brisbane
+
+![Artefact 4 - Week 7 Intellectual Property Workshop](photo_2026-09-09_23-47-31.jpg)
+
+### Summary of the artefact: My Personal Reflection
+
+During the Week 7 workshop, I developed a better understanding of intellectual property and why it is important in the ICT industry. Before this workshop, I mainly associated intellectual property with copyright. However, I learned that intellectual property includes different forms of protection such as copyright, patents, trademarks, designs and trade secrets. One idea that interested me was the need to balance the rights of creators with the benefits that new ideas and technologies can provide to society.
+
+The workshop also made me think more carefully about intellectual property in my future career. As an IT student, I may develop software, use AI-generated content or work with information created by other people. I now understand that ICT professionals need to consider ownership, copyright and the responsible use of digital content. This workshop helped me see that intellectual property is not only a legal issue but also an ethical responsibility when developing and using technology.
