@@ -38,7 +38,7 @@ I chose this article because it gives a current real-world example of the copyri
 
 ## Artefact 3: Scholarly Article – Copyright Ownership of AI-Generated Works
 
-![Artefact 3 - AI Copyright](YOUR-IMAGE-NAME.jpg)
+![Artefact 3 - AI Copyright](photo_2026-09-09_23-44-28.jpg)
 
 **Source (scholarly article):** Chen, G, Tong, Y & Han, Z 2026, *Comparative Study on the Ownership of Copyright of Artificial Intelligence-Generated Works*, Laws, vol. 15, no. 4, article 66.
 
